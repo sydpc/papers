@@ -5,9 +5,6 @@ http://www.mi.fu-berlin.de/wiki/pub/ABI/FMIndexThesis/FMIndex.pdf
 # Semi-Indexing Semi-Structured Data in Tiny Space
 http://www.di.unipi.it/~ottavian/files/semi_index_cikm.pdf
 
-# Semi-Indexing Semi-Structured Data in Tiny Space
-http://www.di.unipi.it/~ottavian/files/semi_index_cikm.pdf
-
 # Succinct Trees in Practice
 http://www.dcc.uchile.cl/~gnavarro/ps/alenex10.pdf
 
