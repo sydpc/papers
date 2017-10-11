@@ -1,7 +1,0 @@
-The main paper is:
-CRDTs: Consistency without concurrency control 
-http://pagesperso-systeme.lip6.fr/Marc.Shapiro/papers/RR-6956.pdf
-
-Furter reading:
-A Comprehensive Study of Convergent and Commutative Replicated Data Types 
-http://hal.upmc.fr/docs/00/55/55/88/PDF/techreport.pdf
